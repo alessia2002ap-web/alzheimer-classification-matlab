@@ -1,0 +1,12 @@
+# Dataset locale: non pubblicare su GitHub
+Alzheimer.mat
+
+# File temporanei MATLAB
+*.asv
+*.autosave
+
+# File di sistema macOS
+.DS_Store
+
+# Impostazioni locali VS Code
+.vscode/
